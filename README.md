@@ -1,6 +1,6 @@
 <h1>PROYECTO DE PROGRAMACIÓN PARALELA</h1>
 
-<h2>##MULTIPLICACIÓN DE MATRICES</h2>
+<h2>MULTIPLICACIÓN DE MATRICES</h2>
 
 Este proyecto es una implementación en Java para la multiplicación de matrices utilizando diferentes técnicas y estrategias para optimizar el rendimiento.
 
