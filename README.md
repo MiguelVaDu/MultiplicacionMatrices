@@ -5,6 +5,7 @@
 Este proyecto es una implementación en Java para la multiplicación de matrices utilizando diferentes técnicas y estrategias para optimizar el rendimiento.
 
 <h3>Puntos tratados:</h3>
+
 - Calculo de multiplicación de matrices de manera secuencial.
 
 - Calculo de multiplicación de matrices de manera paralela.
