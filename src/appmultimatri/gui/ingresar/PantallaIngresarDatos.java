@@ -63,8 +63,8 @@ public class PantallaIngresarDatos {
 		Font font = new Font("Georgia", Font.BOLD, 25);
 		Font font2 = new Font("Georgia", Font.PLAIN, 20);
 
-		tituloLabel.setForeground(Color.WHITE);
-		tituloLabel2.setForeground(Color.WHITE);
+		tituloLabel.setForeground(Color.BLACK);
+		tituloLabel2.setForeground(Color.BLACK);
 
 		tituloLabel.setFont(font);
 		tituloLabel2.setFont(font2);
@@ -124,7 +124,7 @@ public class PantallaIngresarDatos {
 		matrizFilaATextField.setOpaque(true);
 		panelFondo.add(matrizFilaATextField);
 	}
-
+	
 	private void matrizColumnaB() {
 		matrizBLabel = new JLabel("MATRIZ  B");
 		matrizBLabel.setBounds((int) (WIDTH * 0.05), (int) (HEIGHT * 0.52), (int) (WIDTH * 0.35),
