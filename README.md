@@ -6,7 +6,9 @@ Este proyecto es una implementación en Java para la multiplicación de matrices
 
 <h3>Puntos tratados:</h3>
 - Calculo de multiplicación de matrices de manera secuencial.
+
 - Calculo de multiplicación de matrices de manera paralela.
+  
 - Interfaz grafica que compara el promedio de los resultados en n ejecuciones.
 
 <h4>Java M.M.Secuencial</h4>
