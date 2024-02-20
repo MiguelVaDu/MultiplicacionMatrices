@@ -1,12 +1,15 @@
-#PROYECTO DE PROGRAMACIÓN PARALELA
-###MULTIPLICACIÓN DE MATRICES
+<h1>PROYECTO DE PROGRAMACIÓN PARALELA</h1>
+
+<h2>##MULTIPLICACIÓN DE MATRICES</h2>
+
 Este proyecto es una implementación en Java para la multiplicación de matrices utilizando diferentes técnicas y estrategias para optimizar el rendimiento.
-###Puntos tratados:
+
+<h3>Puntos tratados:</h3>
 - Calculo de multiplicación de matrices de manera secuencial.
 - Calculo de multiplicación de matrices de manera paralela.
 - Interfaz grafica que compara el promedio de los resultados en n ejecuciones.
 
-####Java M.M.Secuencial
+<h4>Java M.M.Secuencial</h4>
 
 ```java
 public class MultiMatriSecuencial {
@@ -42,7 +45,7 @@ public class MultiMatriSecuencial {
     }
 }
 ```
-####Java M.M.Paralela
+<h4>Java M.M.Paralela</h4>
 
 ```java
 public class MultiMatriParalela {
